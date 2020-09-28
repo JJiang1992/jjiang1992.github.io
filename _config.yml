@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
+title: 123
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: "/jjiang1992.github.io"
+url: "jjiang1992.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
