@@ -1,7 +1,7 @@
 # Site Settings
 title: Jian Jiang
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: jian.jacky.jiang@gmail.com
 description: >
   学杂且学渣，专业键盘侠，游戏爱好者
 baseurl: "/jjiang1992.github.io"
@@ -19,7 +19,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: jjiang
 
 
 plugins:
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "J. Jiang"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
