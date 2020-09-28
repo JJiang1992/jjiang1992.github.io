@@ -3,12 +3,12 @@ title: Jian Jiang
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  学杂且学渣，专业键盘侠，游戏爱好者
 baseurl: "/jjiang1992.github.io"
 url: "jjiang1992.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme: bulma-clean-theme
 paginate: 5
