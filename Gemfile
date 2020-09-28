@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+gem "bulma-clean-theme"
 source "https://rubygems.org"
 gemspec
 
