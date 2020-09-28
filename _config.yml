@@ -1,5 +1,5 @@
 # Site Settings
-title: 123
+title: Jian Jiang
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
@@ -30,7 +30,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -71,7 +71,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
